@@ -23,7 +23,6 @@ To create this application, I used:
 
 ### Screenshot of Application
 
-![Screenshot of application](./assets/images/screenshot-of-application.png)
 
 ## Access
 
