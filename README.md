@@ -29,11 +29,11 @@ To create this application, I used:
 
 ### Code Repository
 
-The repository where the code is saved is on Github. To access it, click [here](https://github.com/hayleyarodgers/pwa-text-editor).
+Github link 
 
 ### Live Application
 
-My application is deployed on Heroku. To access it, click [here](https://github.com/FadumaD/pwd-text-19).
+My application is deployed on Heroku. 
 
 ## Installation
 
