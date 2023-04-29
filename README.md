@@ -1,4 +1,7 @@
 # pwa-text-editor
+## Description
+This project is to build a text editor that meets the pwa requirments. A single page application.
+
 
 ## Table of Contents
 
@@ -8,18 +11,6 @@
 * [Usage](#usage)
 * [Credits](#credits)
 
-## Description
-This project is to build a text editor that meets the pwa requirments. A single page application.
-
-
-
-### Tools and Technologies Used
-
-To create this application, I used:
-- IndexedDB (via the idb package) as a database
-- Webpack to bundle front-end code
-- Workbox to create a service worker that caches static assets
-- And, Heroku.
 
 ### Screenshot of Application
 
@@ -27,13 +18,14 @@ To create this application, I used:
 
 ## Access
 
-### Code Repository
+### links
 
 Github link 
+https://github.com/FadumaD/pwa-text-19 
 
-### Live Application
+My application is deployed on Heroku.
+https://noteapp.herokuapp.com
 
-My application is deployed on Heroku. 
 
 ## Installation
 
