@@ -23,6 +23,7 @@ To create this application, I used:
 
 ### Screenshot of Application
 
+<img width="1018" alt="Screenshot 2023-04-29 at 13 36 47" src="https://user-images.githubusercontent.com/117111465/235302882-2ec50a52-df42-4747-8ec7-48e939f44e69.png">
 
 ## Access
 
